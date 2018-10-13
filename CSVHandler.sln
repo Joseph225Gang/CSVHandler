@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVHandler", "CSVHandler\CSVHandler.csproj", "{00A58D46-DCA4-49C3-BF58-90F87D0DEBE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVHandler.Domain", "CSVHandler.Domain\CSVHandler.Domain.csproj", "{E2B78DD9-34EE-408E-8874-F3F958E3E369}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVHandler.Service", "CSVHandler.Service\CSVHandler.Service.csproj", "{FD13EC29-D58F-40B4-B6AD-6F2764100F33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00A58D46-DCA4-49C3-BF58-90F87D0DEBE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A58D46-DCA4-49C3-BF58-90F87D0DEBE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A58D46-DCA4-49C3-BF58-90F87D0DEBE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A58D46-DCA4-49C3-BF58-90F87D0DEBE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2B78DD9-34EE-408E-8874-F3F958E3E369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2B78DD9-34EE-408E-8874-F3F958E3E369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2B78DD9-34EE-408E-8874-F3F958E3E369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2B78DD9-34EE-408E-8874-F3F958E3E369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD13EC29-D58F-40B4-B6AD-6F2764100F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD13EC29-D58F-40B4-B6AD-6F2764100F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD13EC29-D58F-40B4-B6AD-6F2764100F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD13EC29-D58F-40B4-B6AD-6F2764100F33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

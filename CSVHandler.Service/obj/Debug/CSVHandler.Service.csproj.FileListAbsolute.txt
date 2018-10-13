@@ -1,0 +1,7 @@
+D:\c sharp\Visual Studio 2015\CSVHandler\CSVHandler.Service\bin\Debug\CSVHandler.Service.dll
+D:\c sharp\Visual Studio 2015\CSVHandler\CSVHandler.Service\bin\Debug\CSVHandler.Service.pdb
+D:\c sharp\Visual Studio 2015\CSVHandler\CSVHandler.Service\bin\Debug\CSVHandler.Domain.dll
+D:\c sharp\Visual Studio 2015\CSVHandler\CSVHandler.Service\bin\Debug\CSVHandler.Domain.pdb
+D:\c sharp\Visual Studio 2015\CSVHandler\CSVHandler.Service\obj\Debug\CSVHandler.Service.csprojResolveAssemblyReference.cache
+D:\c sharp\Visual Studio 2015\CSVHandler\CSVHandler.Service\obj\Debug\CSVHandler.Service.dll
+D:\c sharp\Visual Studio 2015\CSVHandler\CSVHandler.Service\obj\Debug\CSVHandler.Service.pdb
